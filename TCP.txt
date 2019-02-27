@@ -1,0 +1,4 @@
+23:44:59.064828 70:18:8b:25:b5:73 > 01:00:5e:00:00:fb, ethertype IPv4 (0x0800), length 87: 192.168.1.105.5353 > 224.0.0.251.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+23:45:00.062234 70:18:8b:25:b5:73 > 33:33:00:00:00:fb, ethertype IPv6 (0x86dd), length 107: 2409:4063:201b:e791:550:e94c:44d3:4d84.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+23:49:15.065864 70:18:8b:25:b5:73 > 01:00:5e:00:00:fb, ethertype IPv4 (0x0800), length 87: 192.168.1.105.5353 > 224.0.0.251.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+23:49:16.063111 70:18:8b:25:b5:73 > 33:33:00:00:00:fb, ethertype IPv6 (0x86dd), length 107: 2409:4063:201b:e791:550:e94c:44d3:4d84.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
