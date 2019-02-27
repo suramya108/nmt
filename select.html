@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>select.html</title>
+  </head>
+  <body><center style="background-color:Violet;">
+    <h1>NETWORK MONITORING TOOL</h1><br>
+    <h2>SELECTION PAGE</h2>
+    <form method="POST" action ="x.php">
+      <fieldset style="background-color:LightGray;">
+       <h3>Selecting Packet Type</h3>
+       <p>
+          <label>Select the type of packet you want to display</label><br> <br> <br>           
+          <input type = "radio"
+                 name = "packet"
+                 
+                 value = "arp"
+                 checked = "checked" />
+          <label for = "packetARP">ARP</label>
+          <input type = "radio"
+                 name = "packet"
+                 
+                 value = "udp" />
+          <label for = "packetUDP">UDP</label>
+          <input type = "radio"
+                 name = "packet"
+                 
+                 value = "tcp" />
+          <label for = "packetTCP">TCP</label><br><br>
+          <legend>Selecting elements</legend><br><br>
+          
+             <label>Select list</label>
+             <select name = "field">
+               <option value = "timestamp">Timestamp</option>
+               <option value = "SMAC">Source MAC</option>
+               <option value = "DMAC">Destination MAC</option>
+               <option value = "SIP">Source IP</option>
+               <option value = "DIP">Destination IP</option>
+               <option value = "len">Length</option>
+               <option value = "port1">Source Port</option>
+               <option value = "port2">Destination Port</option>
+               <option value = "all">ALL</option><br>
+               <input type="submit" value="Submit">
+
+             </select>
+        </p>       
+      </fieldset>     
+    </form>
+    </center>
+  </body>
+</html>
