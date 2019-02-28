@@ -1,0 +1,1000 @@
+23:43:35.518875 00:17:7c:72:e2:75 > ff:ff:ff:ff:ff:ff, ethertype ARP (0x0806), length 60: Request who-has 192.168.1.103 tell 192.168.1.103, length 46
+23:43:37.369480 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 78: 192.168.1.105.46770 > 164.100.94.113.443: Flags [.], ack 1381050485, win 237, options [nop,nop,TS val 2362910530 ecr 3573099354,nop,nop,sack 1 {2717:2927}], length 0
+23:43:37.426488 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 66: 164.100.94.113.443 > 192.168.1.105.46770: Flags [.], ack 1, win 32931, options [nop,nop,TS val 3573140054 ecr 2362900357], length 0
+23:43:38.444169 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 90: 192.168.1.105.35543 > 91.189.94.4.123: NTPv4, Client, length 48
+23:43:39.452802 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 90: 91.189.94.4.123 > 192.168.1.105.35543: NTPv4, Server, length 48
+23:43:40.445500 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:43:40.445561 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.105 tell 192.168.1.1, length 28
+23:43:40.445580 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Reply 192.168.1.105 is-at 70:18:8b:25:b5:73, length 28
+23:43:40.445744 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:43:40.500703 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:43:41.436489 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:43:41.504716 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 45705+ A? daisy.ubuntu.com. (34)
+23:43:41.504770 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 8684+ AAAA? daisy.ubuntu.com. (34)
+23:43:41.507386 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 45705 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:43:41.507508 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 8684 0/0/0 (34)
+23:43:43.458357 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff63:a79f: ICMP6, neighbor solicitation, who has fe80::aec1:eeff:fe63:a79f, length 32
+23:43:45.368066 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 112: 192.168.1.105.51786 > 52.66.149.39.443: Flags [P.], seq 690452394:690452440, ack 1852070215, win 237, options [nop,nop,TS val 2378531678 ecr 274108146], length 46
+23:43:45.454629 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 66: 52.66.149.39.443 > 192.168.1.105.51786: Flags [.], ack 46, win 118, options [nop,nop,TS val 274122782 ecr 2378531678], length 0
+23:43:46.428589 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff3c:f293: ICMP6, neighbor solicitation, who has fe80::5e51:88ff:fe3c:f293, length 32
+23:43:47.609454 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 78: 192.168.1.105.46770 > 164.100.94.113.443: Flags [.], ack 1, win 237, options [nop,nop,TS val 2362913090 ecr 3573099354,nop,nop,sack 1 {2717:2927}], length 0
+23:43:47.664687 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 66: 164.100.94.113.443 > 192.168.1.105.46770: Flags [.], ack 1, win 32931, options [nop,nop,TS val 3573150304 ecr 2362900357], length 0
+23:43:49.469144 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:43:50.473883 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 45104+ A? daisy.ubuntu.com. (34)
+23:43:50.473959 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 96: 2409:4063:201b:e791:550:e94c:44d3:4d84.41445 > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53: 45104+ A? daisy.ubuntu.com. (34)
+23:43:50.474008 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 60298+ AAAA? daisy.ubuntu.com. (34)
+23:43:50.477014 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 45104 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:43:50.477200 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 128: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53 > 2409:4063:201b:e791:550:e94c:44d3:4d84.41445: 45104 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:43:50.477328 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 60298 0/0/0 (34)
+23:43:50.509419 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:43:53.371936 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 112: 192.168.1.105.51786 > 52.66.149.39.443: Flags [P.], seq 46:92, ack 1, win 237, options [nop,nop,TS val 2378533679 ecr 274108146], length 46
+23:43:53.373181 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 97: 192.168.1.105.51786 > 52.66.149.39.443: Flags [FP.], seq 92:123, ack 1, win 237, options [nop,nop,TS val 2378533679 ecr 274108146], length 31
+23:43:53.388919 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 80: 192.168.1.105.51631 > 192.168.1.1.53: 15295+ A? static.peachmode.com. (38)
+23:43:53.388967 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 80: 192.168.1.105.51631 > 192.168.1.1.53: 53352+ AAAA? static.peachmode.com. (38)
+23:43:53.442057 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 159: 192.168.1.1.53 > 192.168.1.105.51631: 53352 2/0/0 CNAME static.peachmode.com.edgekey.net., CNAME e5473.a.akamaiedge.net. (117)
+23:43:53.460196 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 175: 192.168.1.1.53 > 192.168.1.105.51631: 15295 3/0/0 CNAME static.peachmode.com.edgekey.net., CNAME e5473.a.akamaiedge.net., A 104.65.86.105 (133)
+23:43:53.474564 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 66: 52.66.149.39.443 > 192.168.1.105.51786: Flags [.], ack 92, win 118, options [nop,nop,TS val 274124785 ecr 2378533679], length 0
+23:43:53.785453 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 97: 192.168.1.105.51786 > 52.66.149.39.443: Flags [FP.], seq 92:123, ack 1, win 237, options [nop,nop,TS val 2378533783 ecr 274108146], length 31
+23:43:53.874963 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 78: 52.66.149.39.443 > 192.168.1.105.51786: Flags [.], ack 124, win 118, options [nop,nop,TS val 274124887 ecr 2378533783,nop,nop,sack 1 {92:124}], length 0
+23:43:55.452705 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:43:55.452770 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:43:55.545469 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:58b1:4fff:fe60:5a6f, length 32
+23:43:55.548978 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 78: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f > fe80::1420:652c:252b:630d: ICMP6, neighbor advertisement, tgt is 2409:4063:201b:e791:58b1:4fff:fe60:5a6f, length 24
+23:43:56.456660 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 49421+ A? daisy.ubuntu.com. (34)
+23:43:56.456709 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 28621+ AAAA? daisy.ubuntu.com. (34)
+23:43:56.461522 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 49421 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:43:56.461545 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 28621 0/0/0 (34)
+23:43:57.436909 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:43:57.849449 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 78: 192.168.1.105.46770 > 164.100.94.113.443: Flags [.], ack 1, win 237, options [nop,nop,TS val 2362915650 ecr 3573099354,nop,nop,sack 1 {2717:2927}], length 0
+23:43:57.895168 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 66: 164.100.94.113.443 > 192.168.1.105.46770: Flags [.], ack 1, win 32931, options [nop,nop,TS val 3573160554 ecr 2362900357], length 0
+23:43:57.947297 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff72:bf3a: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:89c7:a01c:2872:bf3a, length 32
+23:43:58.026076 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff22:80e0: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:7cfa:2c67:5922:80e0, length 32
+23:43:59.452940 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff94:8cd1: ICMP6, neighbor solicitation, who has fe80::2ec:aff:fe94:8cd1, length 32
+23:43:59.480588 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 311: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 269
+23:43:59.483694 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 391: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 349
+23:43:59.484199 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 320: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 278
+23:43:59.484895 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 379: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 337
+23:43:59.485444 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 385: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 343
+23:44:00.506758 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffba:460f: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:fd6a:1d3b:14ba:460f, length 32
+23:44:01.437224 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffd3:4d84: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:44:01.437272 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: 2409:4063:201b:e791:550:e94c:44d3:4d84 > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:44:02.460331 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > fe80::1420:652c:252b:630d: ICMP6, neighbor solicitation, who has fe80::1420:652c:252b:630d, length 32
+23:44:02.460379 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 78: fe80::1420:652c:252b:630d > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is fe80::1420:652c:252b:630d, length 24
+23:44:02.552566 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 373: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 331
+23:44:03.453006 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:44:03.453047 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:44:04.456422 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 7958+ A? daisy.ubuntu.com. (34)
+23:44:04.456465 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 14078+ AAAA? daisy.ubuntu.com. (34)
+23:44:04.459389 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 7958 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:44:04.459423 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 14078 0/0/0 (34)
+23:44:06.461737 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:44:06.553460 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:44:06.555006 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 78: fe80::58b1:4fff:fe60:5a6f > fe80::1420:652c:252b:630d: ICMP6, neighbor advertisement, tgt is fe80::58b1:4fff:fe60:5a6f, length 24
+23:44:06.772073 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 73: 192.168.1.105.51631 > 192.168.1.1.53: 54222+ A? peachmode.com. (31)
+23:44:06.772854 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 73: 192.168.1.105.51631 > 192.168.1.1.53: 51909+ AAAA? peachmode.com. (31)
+23:44:06.772863 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 74: 192.168.1.105.51794 > 52.66.149.39.443: Flags [S], seq 434790637, win 29200, options [mss 1460,sackOK,TS val 2378537029 ecr 0,nop,wscale 7], length 0
+23:44:06.772866 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 73: 192.168.1.105.51631 > 192.168.1.1.53: 55017+ A? peachmode.com. (31)
+23:44:06.778090 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 73: 192.168.1.1.53 > 192.168.1.105.51631: 51909 0/0/0 (31)
+23:44:06.813044 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 105: 192.168.1.1.53 > 192.168.1.105.51631: 54222 2/0/0 A 52.66.149.39, A 35.154.20.98 (63)
+23:44:06.845687 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 74: 52.66.149.39.443 > 192.168.1.105.51794: Flags [S.], seq 239887458, ack 434790638, win 26847, options [mss 1370,sackOK,TS val 274128130 ecr 2378537029,nop,wscale 8], length 0
+23:44:06.845731 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 66: 192.168.1.105.51794 > 52.66.149.39.443: Flags [.], ack 1, win 229, options [nop,nop,TS val 2378537048 ecr 274128130], length 0
+23:44:06.845963 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 105: 192.168.1.1.53 > 192.168.1.105.51631: 55017 2/0/0 A 52.66.149.39, A 35.154.20.98 (63)
+23:44:06.846027 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 583: 192.168.1.105.51794 > 52.66.149.39.443: Flags [P.], seq 1:518, ack 1, win 229, options [nop,nop,TS val 2378537048 ecr 274128130], length 517
+23:44:06.924615 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 66: 52.66.149.39.443 > 192.168.1.105.51794: Flags [.], ack 518, win 110, options [nop,nop,TS val 274128149 ecr 2378537048], length 0
+23:44:08.444777 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 212: 52.66.149.39.443 > 192.168.1.105.51794: Flags [P.], seq 1:147, ack 518, win 110, options [nop,nop,TS val 274128224 ecr 2378537048], length 146
+23:44:08.444820 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 66: 192.168.1.105.51794 > 52.66.149.39.443: Flags [.], ack 147, win 237, options [nop,nop,TS val 2378537447 ecr 274128224], length 0
+23:44:08.445082 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 212: 52.66.149.39.443 > 192.168.1.105.51794: Flags [P.], seq 1:147, ack 518, win 110, options [nop,nop,TS val 274128296 ecr 2378537048], length 146
+23:44:08.445102 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 78: 192.168.1.105.51794 > 52.66.149.39.443: Flags [.], ack 147, win 237, options [nop,nop,TS val 2378537447 ecr 274128296,nop,nop,sack 1 {1:147}], length 0
+23:44:08.445323 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 117: 192.168.1.105.51794 > 52.66.149.39.443: Flags [P.], seq 518:569, ack 147, win 237, options [nop,nop,TS val 2378537447 ecr 274128296], length 51
+23:44:08.445388 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 212: 52.66.149.39.443 > 192.168.1.105.51794: Flags [P.], seq 1:147, ack 518, win 110, options [nop,nop,TS val 274128440 ecr 2378537048], length 146
+23:44:08.445406 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 78: 192.168.1.105.51794 > 52.66.149.39.443: Flags [.], ack 147, win 237, options [nop,nop,TS val 2378537447 ecr 274128440,nop,nop,sack 1 {1:147}], length 0
+23:44:08.445811 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 229: 192.168.1.105.51794 > 52.66.149.39.443: Flags [P.], seq 569:732, ack 147, win 237, options [nop,nop,TS val 2378537448 ecr 274128440], length 163
+23:44:08.528761 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 144: 52.66.149.39.443 > 192.168.1.105.51794: Flags [P.], seq 147:225, ack 732, win 114, options [nop,nop,TS val 274128552 ecr 2378537447], length 78
+23:44:08.528871 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 104: 192.168.1.105.51794 > 52.66.149.39.443: Flags [P.], seq 732:770, ack 225, win 237, options [nop,nop,TS val 2378537468 ecr 274128552], length 38
+23:44:08.534863 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 66: 52.66.149.39.443 > 192.168.1.105.51794: Flags [.], ack 732, win 114, options [nop,nop,TS val 274128552 ecr 2378537447], length 0
+23:44:08.534876 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 66: 192.168.1.105.51794 > 52.66.149.39.443: Flags [.], ack 225, win 237, options [nop,nop,TS val 2378537470 ecr 274128552], length 0
+23:44:08.825439 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 104: 192.168.1.105.51794 > 52.66.149.39.443: Flags [P.], seq 732:770, ack 225, win 237, options [nop,nop,TS val 2378537543 ecr 274128552], length 38
+23:44:08.828716 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 66: 52.66.149.39.443 > 192.168.1.105.51794: Flags [.], ack 770, win 114, options [nop,nop,TS val 274128585 ecr 2378537468], length 0
+23:44:08.914927 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 78: 52.66.149.39.443 > 192.168.1.105.51794: Flags [.], ack 770, win 114, options [nop,nop,TS val 274128647 ecr 2378537543,nop,nop,sack 1 {732:770}], length 0
+23:44:10.428857 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:44:10.428956 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:44:11.420410 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:44:11.694174 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 90: 192.168.1.105.56241 > 91.189.94.4.123: NTPv4, Client, length 48
+23:44:12.422250 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 65219+ A? daisy.ubuntu.com. (34)
+23:44:12.423063 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 96: 2409:4063:201b:e791:550:e94c:44d3:4d84.41445 > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53: 65219+ A? daisy.ubuntu.com. (34)
+23:44:12.423090 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 20035+ AAAA? daisy.ubuntu.com. (34)
+23:44:12.427338 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:44:12.427525 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 65219 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:44:12.427739 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 128: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53 > 2409:4063:201b:e791:550:e94c:44d3:4d84.41445: 65219 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:44:12.427878 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 20035 0/0/0 (34)
+23:44:12.428307 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 90: 91.189.94.4.123 > 192.168.1.105.56241: NTPv4, Server, length 48
+23:44:13.435909 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.105 tell 192.168.1.1, length 28
+23:44:13.435923 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Reply 192.168.1.105 is-at 70:18:8b:25:b5:73, length 28
+23:44:16.412343 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff63:a79f: ICMP6, neighbor solicitation, who has fe80::aec1:eeff:fe63:a79f, length 32
+23:44:19.452685 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:44:19.545749 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff3c:f293: ICMP6, neighbor solicitation, who has fe80::5e51:88ff:fe3c:f293, length 32
+23:44:20.413070 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:44:21.416919 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 26259+ A? daisy.ubuntu.com. (34)
+23:44:21.417701 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 644+ AAAA? daisy.ubuntu.com. (34)
+23:44:21.422071 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:44:21.422250 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 26259 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:44:21.422393 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 644 0/0/0 (34)
+23:44:23.453259 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:44:26.460201 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:44:27.501634 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:44:29.468179 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:44:30.460778 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:44:30.470090 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 7188+ A? daisy.ubuntu.com. (34)
+23:44:30.470131 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 63419+ AAAA? daisy.ubuntu.com. (34)
+23:44:30.473295 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 63419 0/0/0 (34)
+23:44:30.520123 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 7188 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:44:31.452800 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff72:bf3a: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:89c7:a01c:2872:bf3a, length 32
+23:44:31.452826 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff22:80e0: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:7cfa:2c67:5922:80e0, length 32
+23:44:31.545211 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff94:8cd1: ICMP6, neighbor solicitation, who has fe80::2ec:aff:fe94:8cd1, length 32
+23:44:32.455986 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 320: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 278
+23:44:32.456489 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 359: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 317
+23:44:32.457047 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 391: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 349
+23:44:32.457526 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 320: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 278
+23:44:32.458083 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 379: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 337
+23:44:32.458557 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 320: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 278
+23:44:32.459086 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 379: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 337
+23:44:32.459623 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 385: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 343
+23:44:32.460169 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 373: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 331
+23:44:32.460692 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 379: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 337
+23:44:32.461170 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 309: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 267
+23:44:32.461660 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 318: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 276
+23:44:32.462189 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 373: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 331
+23:44:32.462743 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 383: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 341
+23:44:35.425582 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 320: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 278
+23:44:35.426944 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 359: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 317
+23:44:35.481436 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.1 tell 192.168.1.105, length 28
+23:44:35.876916 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffba:460f: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:fd6a:1d3b:14ba:460f, length 32
+23:44:35.877073 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:44:35.877232 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffd3:4d84: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:44:35.877398 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff2b:630d: ICMP6, neighbor solicitation, who has fe80::1420:652c:252b:630d, length 32
+23:44:35.877500 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Reply 192.168.1.1 is-at c8:d7:79:aa:2a:72, length 28
+23:44:35.981537 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: 2409:4063:201b:e791:550:e94c:44d3:4d84 > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:44:35.981551 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is fe80::1420:652c:252b:630d, length 32
+23:44:41.541430 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:44:42.428247 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:44:43.431292 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 18438+ A? daisy.ubuntu.com. (34)
+23:44:43.432065 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 96: 2409:4063:201b:e791:550:e94c:44d3:4d84.41445 > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53: 18438+ A? daisy.ubuntu.com. (34)
+23:44:43.432072 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 45701+ AAAA? daisy.ubuntu.com. (34)
+23:44:43.435133 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:44:43.435208 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:44:43.435297 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 18438 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:44:43.436048 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 128: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53 > 2409:4063:201b:e791:550:e94c:44d3:4d84.41445: 18438 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:44:43.436117 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 45701 0/0/0 (34)
+23:44:44.444124 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 90: 192.168.1.105.46773 > 91.189.94.4.123: NTPv4, Client, length 48
+23:44:45.436745 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 90: 91.189.94.4.123 > 192.168.1.105.46773: NTPv4, Server, length 48
+23:44:47.035645 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:44:48.038180 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 2343+ A? daisy.ubuntu.com. (34)
+23:44:48.038220 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 42862+ AAAA? daisy.ubuntu.com. (34)
+23:44:48.040793 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 2343 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:44:48.040806 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 42862 0/0/0 (34)
+23:44:48.120334 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:58b1:4fff:fe60:5a6f, length 32
+23:44:48.122780 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 78: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f > fe80::1420:652c:252b:630d: ICMP6, neighbor advertisement, tgt is 2409:4063:201b:e791:58b1:4fff:fe60:5a6f, length 24
+23:44:49.051775 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff63:a79f: ICMP6, neighbor solicitation, who has fe80::aec1:eeff:fe63:a79f, length 32
+23:44:49.051825 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:44:50.044520 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:44:52.028189 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff3c:f293: ICMP6, neighbor solicitation, who has fe80::5e51:88ff:fe3c:f293, length 32
+23:44:53.048087 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.105 tell 192.168.1.1, length 28
+23:44:53.048150 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Reply 192.168.1.105 is-at 70:18:8b:25:b5:73, length 28
+23:44:55.070010 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:44:56.028632 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:44:56.028759 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:44:56.072833 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 27209+ A? daisy.ubuntu.com. (34)
+23:44:56.072877 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 17722+ AAAA? daisy.ubuntu.com. (34)
+23:44:56.075956 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 27209 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:44:56.076072 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 17722 0/0/0 (34)
+23:44:58.043873 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:44:59.064828 70:18:8b:25:b5:73 > 01:00:5e:00:00:fb, ethertype IPv4 (0x0800), length 87: 192.168.1.105.5353 > 224.0.0.251.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+23:45:00.062234 70:18:8b:25:b5:73 > 33:33:00:00:00:fb, ethertype IPv6 (0x86dd), length 107: 2409:4063:201b:e791:550:e94c:44d3:4d84.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+23:45:01.020421 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:45:01.121151 c8:d7:79:aa:2a:72 > ff:ff:ff:ff:ff:ff, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.101 tell 192.168.1.1, length 28
+23:45:01.176282 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.1 tell 192.168.1.105, length 28
+23:45:01.179802 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Reply 192.168.1.1 is-at c8:d7:79:aa:2a:72, length 28
+23:45:02.026472 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 32274+ A? daisy.ubuntu.com. (34)
+23:45:02.027293 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 11587+ AAAA? daisy.ubuntu.com. (34)
+23:45:02.029993 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 32274 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:45:02.030026 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 11587 0/0/0 (34)
+23:45:04.026885 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff72:bf3a: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:89c7:a01c:2872:bf3a, length 32
+23:45:04.026925 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff22:80e0: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:7cfa:2c67:5922:80e0, length 32
+23:45:04.026972 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff94:8cd1: ICMP6, neighbor solicitation, who has fe80::2ec:aff:fe94:8cd1, length 32
+23:45:04.096109 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 54: 52.66.149.39.443 > 192.168.1.105.51786: Flags [R.], seq 17872, ack 124, win 0, length 0
+23:45:05.051096 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:45:06.044165 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:45:07.035961 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffba:460f: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:fd6a:1d3b:14ba:460f, length 32
+23:45:07.046955 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 43683+ A? daisy.ubuntu.com. (34)
+23:45:07.046994 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 96: 2409:4063:201b:e791:550:e94c:44d3:4d84.41445 > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53: 43683+ A? daisy.ubuntu.com. (34)
+23:45:07.047014 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 23750+ AAAA? daisy.ubuntu.com. (34)
+23:45:07.049633 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 43683 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:45:07.049651 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 128: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53 > 2409:4063:201b:e791:550:e94c:44d3:4d84.41445: 43683 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:45:07.049663 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 23750 0/0/0 (34)
+23:45:08.084160 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 373: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 331
+23:45:08.084682 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 379: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 337
+23:45:08.085156 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 309: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 267
+23:45:08.085639 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 318: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 276
+23:45:08.086163 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 373: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 331
+23:45:08.086687 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 383: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 341
+23:45:08.110380 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 112: 52.66.149.39.443 > 192.168.1.105.51794: Flags [P.], seq 225:271, ack 770, win 114, options [nop,nop,TS val 274143552 ecr 2378537543], length 46
+23:45:08.110436 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 97: 52.66.149.39.443 > 192.168.1.105.51794: Flags [P.], seq 271:302, ack 770, win 114, options [nop,nop,TS val 274143552 ecr 2378537543], length 31
+23:45:08.110450 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 66: 52.66.149.39.443 > 192.168.1.105.51794: Flags [F.], seq 302, ack 770, win 114, options [nop,nop,TS val 274143552 ecr 2378537543], length 0
+23:45:08.110778 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 112: 192.168.1.105.51794 > 52.66.149.39.443: Flags [P.], seq 770:816, ack 303, win 237, options [nop,nop,TS val 2378552468 ecr 274143552], length 46
+23:45:08.111445 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 66: 192.168.1.105.51794 > 52.66.149.39.443: Flags [F.], seq 816, ack 303, win 237, options [nop,nop,TS val 2378552468 ecr 274143552], length 0
+23:45:08.112860 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 74: 192.168.1.105.51796 > 52.66.149.39.443: Flags [S], seq 2086705980, win 29200, options [mss 1460,sackOK,TS val 2378552469 ecr 0,nop,wscale 7], length 0
+23:45:08.113214 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 73: 192.168.1.105.51631 > 192.168.1.1.53: 59544+ A? peachmode.com. (31)
+23:45:08.155861 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 105: 192.168.1.1.53 > 192.168.1.105.51631: 59544 2/0/0 A 52.66.149.39, A 35.154.20.98 (63)
+23:45:08.180987 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 54: 52.66.149.39.443 > 192.168.1.105.51794: Flags [R], seq 239887761, win 0, length 0
+23:45:08.194220 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 74: 52.66.149.39.443 > 192.168.1.105.51796: Flags [S.], seq 3503242531, ack 2086705981, win 26847, options [mss 1370,sackOK,TS val 274143573 ecr 2378552469,nop,wscale 8], length 0
+23:45:08.194402 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 66: 192.168.1.105.51796 > 52.66.149.39.443: Flags [.], ack 1, win 229, options [nop,nop,TS val 2378552489 ecr 274143573], length 0
+23:45:08.195460 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 583: 192.168.1.105.51796 > 52.66.149.39.443: Flags [P.], seq 1:518, ack 1, win 229, options [nop,nop,TS val 2378552489 ecr 274143573], length 517
+23:45:08.269543 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 212: 52.66.149.39.443 > 192.168.1.105.51796: Flags [P.], seq 1:147, ack 518, win 110, options [nop,nop,TS val 274143593 ecr 2378552489], length 146
+23:45:08.269662 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 66: 192.168.1.105.51796 > 52.66.149.39.443: Flags [.], ack 147, win 237, options [nop,nop,TS val 2378552508 ecr 274143593], length 0
+23:45:08.270486 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 117: 192.168.1.105.51796 > 52.66.149.39.443: Flags [P.], seq 518:569, ack 147, win 237, options [nop,nop,TS val 2378552508 ecr 274143593], length 51
+23:45:08.271019 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 229: 192.168.1.105.51796 > 52.66.149.39.443: Flags [P.], seq 569:732, ack 147, win 237, options [nop,nop,TS val 2378552508 ecr 274143593], length 163
+23:45:08.283117 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 66: 52.66.149.39.443 > 192.168.1.105.51796: Flags [.], ack 518, win 110, options [nop,nop,TS val 274143593 ecr 2378552489], length 0
+23:45:08.283212 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 66: 192.168.1.105.51796 > 52.66.149.39.443: Flags [.], ack 147, win 237, options [nop,nop,TS val 2378552511 ecr 274143593], length 0
+23:45:08.348134 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 66: 52.66.149.39.443 > 192.168.1.105.51796: Flags [.], ack 732, win 114, options [nop,nop,TS val 274143610 ecr 2378552508], length 0
+23:45:08.349909 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 144: 52.66.149.39.443 > 192.168.1.105.51796: Flags [P.], seq 147:225, ack 732, win 114, options [nop,nop,TS val 274143610 ecr 2378552508], length 78
+23:45:08.350029 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 104: 192.168.1.105.51796 > 52.66.149.39.443: Flags [P.], seq 732:770, ack 225, win 237, options [nop,nop,TS val 2378552528 ecr 274143610], length 38
+23:45:08.664241 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 104: 192.168.1.105.51796 > 52.66.149.39.443: Flags [P.], seq 732:770, ack 225, win 237, options [nop,nop,TS val 2378552607 ecr 274143610], length 38
+23:45:08.667040 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 66: 52.66.149.39.443 > 192.168.1.105.51796: Flags [.], ack 770, win 114, options [nop,nop,TS val 274143644 ecr 2378552528], length 0
+23:45:08.749275 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 78: 52.66.149.39.443 > 192.168.1.105.51796: Flags [.], ack 770, win 114, options [nop,nop,TS val 274143710 ecr 2378552607,nop,nop,sack 1 {732:770}], length 0
+23:45:10.043844 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffd3:4d84: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:45:10.043881 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: 2409:4063:201b:e791:550:e94c:44d3:4d84 > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:45:10.043979 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff2b:630d: ICMP6, neighbor solicitation, who has fe80::1420:652c:252b:630d, length 32
+23:45:10.043992 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is fe80::1420:652c:252b:630d, length 32
+23:45:10.138763 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:45:11.156520 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 41152+ A? daisy.ubuntu.com. (34)
+23:45:11.157323 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 15119+ AAAA? daisy.ubuntu.com. (34)
+23:45:11.160105 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 41152 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:45:11.160214 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 15119 0/0/0 (34)
+23:45:12.059544 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:45:14.043165 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:45:14.137535 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:45:15.078730 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:45:15.141724 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 7348+ A? daisy.ubuntu.com. (34)
+23:45:15.141758 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 23482+ AAAA? daisy.ubuntu.com. (34)
+23:45:15.144340 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 7348 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:45:15.144439 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 23482 0/0/0 (34)
+23:45:15.268294 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:45:15.272017 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 78: fe80::58b1:4fff:fe60:5a6f > fe80::1420:652c:252b:630d: ICMP6, neighbor advertisement, tgt is fe80::58b1:4fff:fe60:5a6f, length 24
+23:45:17.027577 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 90: 192.168.1.105.33638 > 91.189.94.4.123: NTPv4, Client, length 48
+23:45:18.044004 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 90: 91.189.94.4.123 > 192.168.1.105.33638: NTPv4, Server, length 48
+23:45:20.059721 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:45:21.019212 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:45:22.025647 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 4987+ A? daisy.ubuntu.com. (34)
+23:45:22.026525 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 50148+ AAAA? daisy.ubuntu.com. (34)
+23:45:22.029325 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff63:a79f: ICMP6, neighbor solicitation, who has fe80::aec1:eeff:fe63:a79f, length 32
+23:45:22.029386 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 4987 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:45:22.029448 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 50148 0/0/0 (34)
+23:45:26.044300 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.105 tell 192.168.1.1, length 28
+23:45:26.044367 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Reply 192.168.1.105 is-at 70:18:8b:25:b5:73, length 28
+23:45:26.044420 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff3c:f293: ICMP6, neighbor solicitation, who has fe80::5e51:88ff:fe3c:f293, length 32
+23:45:26.044467 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:45:27.037397 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:45:28.051747 00:17:7c:72:e2:75 > ff:ff:ff:ff:ff:ff, ethertype ARP (0x0806), length 60: Request who-has 192.168.1.103 tell 192.168.1.103, length 46
+23:45:28.078229 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:45:29.052192 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:45:29.052362 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:45:29.083729 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 1983+ A? daisy.ubuntu.com. (34)
+23:45:29.083832 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 96: 2409:4063:201b:e791:550:e94c:44d3:4d84.41445 > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53: 1983+ A? daisy.ubuntu.com. (34)
+23:45:29.083955 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 1522+ AAAA? daisy.ubuntu.com. (34)
+23:45:29.086759 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 1983 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:45:29.086967 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 128: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53 > 2409:4063:201b:e791:550:e94c:44d3:4d84.41445: 1983 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:45:29.087102 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 1522 0/0/0 (34)
+23:45:33.068780 c8:d7:79:aa:2a:72 > ff:ff:ff:ff:ff:ff, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.100 tell 192.168.1.1, length 28
+23:45:34.200374 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:58b1:4fff:fe60:5a6f, length 32
+23:45:34.201242 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.1 tell 192.168.1.105, length 28
+23:45:34.203782 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 78: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f > fe80::1420:652c:252b:630d: ICMP6, neighbor advertisement, tgt is 2409:4063:201b:e791:58b1:4fff:fe60:5a6f, length 24
+23:45:34.203891 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Reply 192.168.1.1 is-at c8:d7:79:aa:2a:72, length 28
+23:45:36.030169 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:45:36.030276 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:45:37.021260 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff72:bf3a: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:89c7:a01c:2872:bf3a, length 32
+23:45:37.021303 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff22:80e0: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:7cfa:2c67:5922:80e0, length 32
+23:45:37.021308 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff94:8cd1: ICMP6, neighbor solicitation, who has fe80::2ec:aff:fe94:8cd1, length 32
+23:45:37.033115 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 8125+ A? daisy.ubuntu.com. (34)
+23:45:37.033159 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 34994+ AAAA? daisy.ubuntu.com. (34)
+23:45:37.036660 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 8125 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:45:37.036676 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 34994 0/0/0 (34)
+23:45:40.030944 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffba:460f: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:fd6a:1d3b:14ba:460f, length 32
+23:45:42.044719 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:45:43.035861 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:45:43.035910 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffd3:4d84: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:45:43.036001 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: 2409:4063:201b:e791:550:e94c:44d3:4d84 > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:45:43.036032 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff2b:630d: ICMP6, neighbor solicitation, who has fe80::1420:652c:252b:630d, length 32
+23:45:43.036047 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is fe80::1420:652c:252b:630d, length 32
+23:45:44.027688 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:45:45.020484 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:45:46.011866 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:45:46.027503 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 17664+ A? daisy.ubuntu.com. (34)
+23:45:46.027560 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 50232+ AAAA? daisy.ubuntu.com. (34)
+23:45:46.031919 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 17664 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:45:46.031996 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 50232 0/0/0 (34)
+23:45:51.037850 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:45:51.037999 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:45:51.038192 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:45:52.042851 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 37210+ A? daisy.ubuntu.com. (34)
+23:45:52.043665 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 96: 2409:4063:201b:e791:550:e94c:44d3:4d84.41445 > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53: 37210+ A? daisy.ubuntu.com. (34)
+23:45:52.043679 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 3027+ AAAA? daisy.ubuntu.com. (34)
+23:45:52.047603 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 37210 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:45:52.047684 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 128: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53 > 2409:4063:201b:e791:550:e94c:44d3:4d84.41445: 37210 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:45:52.047820 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 3027 0/0/0 (34)
+23:45:55.036783 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff63:a79f: ICMP6, neighbor solicitation, who has fe80::aec1:eeff:fe63:a79f, length 32
+23:45:57.244351 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.1 tell 192.168.1.105, length 28
+23:45:57.247593 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Reply 192.168.1.1 is-at c8:d7:79:aa:2a:72, length 28
+23:45:59.036146 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:45:59.036169 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:45:59.036201 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.105 tell 192.168.1.1, length 28
+23:45:59.036226 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Reply 192.168.1.105 is-at 70:18:8b:25:b5:73, length 28
+23:45:59.036245 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff3c:f293: ICMP6, neighbor solicitation, who has fe80::5e51:88ff:fe3c:f293, length 32
+23:46:00.027143 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:46:00.088852 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:46:00.102143 00:17:7c:72:e2:75 > ff:ff:ff:ff:ff:ff, ethertype ARP (0x0806), length 60: Request who-has 192.168.1.103 tell 192.168.1.103, length 46
+23:46:00.102997 c8:d7:79:aa:2a:72 > ff:ff:ff:ff:ff:ff, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.103 tell 192.168.1.1, length 28
+23:46:01.092511 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 56306+ A? daisy.ubuntu.com. (34)
+23:46:01.092557 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 33168+ AAAA? daisy.ubuntu.com. (34)
+23:46:01.095290 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 56306 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:46:01.095315 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 33168 0/0/0 (34)
+23:46:02.046982 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:46:04.027258 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:46:05.019400 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:46:05.031986 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 34187+ A? daisy.ubuntu.com. (34)
+23:46:05.032034 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 11957+ AAAA? daisy.ubuntu.com. (34)
+23:46:05.035095 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 34187 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:46:05.035120 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 11957 0/0/0 (34)
+23:46:06.042841 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:46:07.113354 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 112: 192.168.1.105.51796 > 52.66.149.39.443: Flags [P.], seq 770:816, ack 225, win 237, options [nop,nop,TS val 2378567219 ecr 274143710], length 46
+23:46:07.198354 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 112: 52.66.149.39.443 > 192.168.1.105.51796: Flags [P.], seq 225:271, ack 816, win 114, options [nop,nop,TS val 274158325 ecr 2378567219], length 46
+23:46:07.205117 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 66: 52.66.149.39.443 > 192.168.1.105.51796: Flags [.], ack 816, win 114, options [nop,nop,TS val 274158325 ecr 2378567219], length 0
+23:46:07.240358 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 66: 192.168.1.105.51796 > 52.66.149.39.443: Flags [.], ack 271, win 237, options [nop,nop,TS val 2378567251 ecr 274158325], length 0
+23:46:08.028116 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:46:09.032528 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 41718+ A? daisy.ubuntu.com. (34)
+23:46:09.033346 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 4492+ AAAA? daisy.ubuntu.com. (34)
+23:46:09.036621 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 41718 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:46:09.036646 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 4492 0/0/0 (34)
+23:46:09.045530 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff72:bf3a: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:89c7:a01c:2872:bf3a, length 32
+23:46:09.126201 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff22:80e0: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:7cfa:2c67:5922:80e0, length 32
+23:46:10.044483 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff94:8cd1: ICMP6, neighbor solicitation, who has fe80::2ec:aff:fe94:8cd1, length 32
+23:46:11.036700 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:46:12.042845 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 65485+ A? daisy.ubuntu.com. (34)
+23:46:12.043963 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 60595+ AAAA? daisy.ubuntu.com. (34)
+23:46:12.047877 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:46:12.047890 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 65485 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:46:12.047914 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 60595 0/0/0 (34)
+23:46:13.025504 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffba:460f: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:fd6a:1d3b:14ba:460f, length 32
+23:46:13.025557 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:46:15.036095 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:46:16.059679 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:46:16.059748 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffd3:4d84: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:46:16.059772 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: 2409:4063:201b:e791:550:e94c:44d3:4d84 > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:46:16.059819 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff2b:630d: ICMP6, neighbor solicitation, who has fe80::1420:652c:252b:630d, length 32
+23:46:16.059827 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is fe80::1420:652c:252b:630d, length 32
+23:46:17.063633 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 32555+ A? daisy.ubuntu.com. (34)
+23:46:17.063683 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 96: 2409:4063:201b:e791:550:e94c:44d3:4d84.41445 > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53: 32555+ A? daisy.ubuntu.com. (34)
+23:46:17.063714 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 57705+ AAAA? daisy.ubuntu.com. (34)
+23:46:17.305027 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 32555 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:46:17.305218 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 128: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53 > 2409:4063:201b:e791:550:e94c:44d3:4d84.41445: 32555 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:46:17.305273 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 57705 0/0/0 (34)
+23:46:21.304237 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:46:21.412234 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:46:21.412265 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:46:21.412268 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 78: fe80::58b1:4fff:fe60:5a6f > fe80::1420:652c:252b:630d: ICMP6, neighbor advertisement, tgt is fe80::58b1:4fff:fe60:5a6f, length 24
+23:46:22.072244 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:58b1:4fff:fe60:5a6f, length 32
+23:46:22.075464 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 78: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f > fe80::1420:652c:252b:630d: ICMP6, neighbor advertisement, tgt is 2409:4063:201b:e791:58b1:4fff:fe60:5a6f, length 24
+23:46:22.276943 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 90: 192.168.1.105.48668 > 91.189.94.4.123: NTPv4, Client, length 48
+23:46:22.415755 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 1966+ A? daisy.ubuntu.com. (34)
+23:46:22.416527 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 57975+ AAAA? daisy.ubuntu.com. (34)
+23:46:22.419764 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 1966 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:46:22.419822 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 57975 0/0/0 (34)
+23:46:22.479952 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 90: 91.189.94.4.123 > 192.168.1.105.48668: NTPv4, Server, length 48
+23:46:27.453872 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:46:27.453906 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:46:28.412573 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff63:a79f: ICMP6, neighbor solicitation, who has fe80::aec1:eeff:fe63:a79f, length 32
+23:46:28.457158 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 56072+ A? daisy.ubuntu.com. (34)
+23:46:28.457205 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 35008+ AAAA? daisy.ubuntu.com. (34)
+23:46:28.459972 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 56072 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:46:28.460106 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 35008 0/0/0 (34)
+23:46:30.428198 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:46:30.428250 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:46:31.431098 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 58585+ A? daisy.ubuntu.com. (34)
+23:46:31.431915 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 32205+ AAAA? daisy.ubuntu.com. (34)
+23:46:31.435146 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 58585 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:46:31.435199 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 32205 0/0/0 (34)
+23:46:32.444571 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff3c:f293: ICMP6, neighbor solicitation, who has fe80::5e51:88ff:fe3c:f293, length 32
+23:46:33.497098 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.1 tell 192.168.1.105, length 28
+23:46:33.498517 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Reply 192.168.1.1 is-at c8:d7:79:aa:2a:72, length 28
+23:46:35.452727 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:46:36.443799 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:46:37.436692 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:46:37.446768 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 32271+ A? daisy.ubuntu.com. (34)
+23:46:37.446847 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 49226+ AAAA? daisy.ubuntu.com. (34)
+23:46:37.449809 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 32271 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:46:37.449827 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 49226 0/0/0 (34)
+23:46:41.468716 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:46:41.468895 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:46:42.461950 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff72:bf3a: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:89c7:a01c:2872:bf3a, length 32
+23:46:42.462090 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff22:80e0: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:7cfa:2c67:5922:80e0, length 32
+23:46:42.462191 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.105 tell 192.168.1.1, length 28
+23:46:42.462205 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Reply 192.168.1.105 is-at 70:18:8b:25:b5:73, length 28
+23:46:42.474652 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 52948+ A? daisy.ubuntu.com. (34)
+23:46:42.474696 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 96: 2409:4063:201b:e791:550:e94c:44d3:4d84.41445 > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53: 52948+ A? daisy.ubuntu.com. (34)
+23:46:42.474722 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 60341+ AAAA? daisy.ubuntu.com. (34)
+23:46:42.477397 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 52948 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:46:42.477593 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 128: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53 > 2409:4063:201b:e791:550:e94c:44d3:4d84.41445: 52948 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:46:42.477713 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 60341 0/0/0 (34)
+23:46:43.452705 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff94:8cd1: ICMP6, neighbor solicitation, who has fe80::2ec:aff:fe94:8cd1, length 32
+23:46:43.455557 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:46:45.437250 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:46:46.427819 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:46:46.428002 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffba:460f: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:fd6a:1d3b:14ba:460f, length 32
+23:46:46.440190 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 32490+ A? daisy.ubuntu.com. (34)
+23:46:46.440232 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 14662+ AAAA? daisy.ubuntu.com. (34)
+23:46:46.443529 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 32490 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:46:46.443690 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 14662 0/0/0 (34)
+23:46:49.468598 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffd3:4d84: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:46:49.468631 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: 2409:4063:201b:e791:550:e94c:44d3:4d84 > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:46:49.468646 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff2b:630d: ICMP6, neighbor solicitation, who has fe80::1420:652c:252b:630d, length 32
+23:46:49.468652 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is fe80::1420:652c:252b:630d, length 32
+23:46:50.460490 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:46:51.463529 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 38765+ A? daisy.ubuntu.com. (34)
+23:46:51.463561 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 30653+ AAAA? daisy.ubuntu.com. (34)
+23:46:51.466585 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 38765 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:46:51.466599 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 30653 0/0/0 (34)
+23:46:52.444266 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:46:54.460850 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:46:54.503348 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:46:54.943816 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 90: 192.168.1.105.42045 > 91.189.94.4.123: NTPv4, Client, length 48
+23:46:55.463835 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 33311+ A? daisy.ubuntu.com. (34)
+23:46:55.464613 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 772+ AAAA? daisy.ubuntu.com. (34)
+23:46:55.468732 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 33311 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:46:55.468747 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 772 0/0/0 (34)
+23:46:55.469028 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 90: 91.189.94.4.123 > 192.168.1.105.42045: NTPv4, Server, length 48
+23:46:56.444293 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:46:56.537099 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.1 tell 192.168.1.105, length 28
+23:46:57.561096 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.1 tell 192.168.1.105, length 28
+23:46:57.589455 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Reply 192.168.1.1 is-at c8:d7:79:aa:2a:72, length 28
+23:47:01.436540 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:47:01.436569 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff63:a79f: ICMP6, neighbor solicitation, who has fe80::aec1:eeff:fe63:a79f, length 32
+23:47:01.436575 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:47:02.439559 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 8297+ A? daisy.ubuntu.com. (34)
+23:47:02.440331 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 49107+ AAAA? daisy.ubuntu.com. (34)
+23:47:02.444115 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 8297 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:47:02.444136 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 49107 0/0/0 (34)
+23:47:04.444629 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:47:05.447221 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 55248+ A? daisy.ubuntu.com. (34)
+23:47:05.448050 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 96: 2409:4063:201b:e791:550:e94c:44d3:4d84.41445 > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53: 55248+ A? daisy.ubuntu.com. (34)
+23:47:05.448058 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 35169+ AAAA? daisy.ubuntu.com. (34)
+23:47:05.452253 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff3c:f293: ICMP6, neighbor solicitation, who has fe80::5e51:88ff:fe3c:f293, length 32
+23:47:05.452263 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 55248 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:47:05.452278 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 128: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53 > 2409:4063:201b:e791:550:e94c:44d3:4d84.41445: 55248 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:47:05.452289 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 35169 0/0/0 (34)
+23:47:06.530995 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 112: 192.168.1.105.51796 > 52.66.149.39.443: Flags [P.], seq 816:862, ack 271, win 237, options [nop,nop,TS val 2378581969 ecr 274158325], length 46
+23:47:06.625246 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 112: 52.66.149.39.443 > 192.168.1.105.51796: Flags [P.], seq 271:317, ack 862, win 114, options [nop,nop,TS val 274173110 ecr 2378581969], length 46
+23:47:06.625274 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 66: 192.168.1.105.51796 > 52.66.149.39.443: Flags [.], ack 317, win 237, options [nop,nop,TS val 2378581993 ecr 274173110], length 0
+23:47:08.444481 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:47:08.444629 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:47:10.515138 c8:d7:79:aa:2a:72 > ff:ff:ff:ff:ff:ff, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.101 tell 192.168.1.1, length 28
+23:47:10.617109 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:58b1:4fff:fe60:5a6f, length 32
+23:47:10.620301 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 78: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f > fe80::1420:652c:252b:630d: ICMP6, neighbor advertisement, tgt is 2409:4063:201b:e791:58b1:4fff:fe60:5a6f, length 24
+23:47:11.452137 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:47:12.557225 ac:c1:ee:63:a7:9f > ff:ff:ff:ff:ff:ff, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.1 tell 192.168.1.101, length 28
+23:47:13.468668 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:47:14.471689 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 37380+ A? daisy.ubuntu.com. (34)
+23:47:14.471721 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 39474+ AAAA? daisy.ubuntu.com. (34)
+23:47:14.474090 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 37380 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:47:14.474252 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 39474 0/0/0 (34)
+23:47:14.503822 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.105 tell 192.168.1.1, length 28
+23:47:14.503837 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Reply 192.168.1.105 is-at 70:18:8b:25:b5:73, length 28
+23:47:15.452513 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff72:bf3a: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:89c7:a01c:2872:bf3a, length 32
+23:47:15.452663 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff22:80e0: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:7cfa:2c67:5922:80e0, length 32
+23:47:15.452818 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:47:16.444369 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff94:8cd1: ICMP6, neighbor solicitation, who has fe80::2ec:aff:fe94:8cd1, length 32
+23:47:16.444512 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:47:18.460295 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:47:19.420530 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffba:460f: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:fd6a:1d3b:14ba:460f, length 32
+23:47:19.463242 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 9194+ A? daisy.ubuntu.com. (34)
+23:47:19.463274 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 11917+ AAAA? daisy.ubuntu.com. (34)
+23:47:19.465687 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 9194 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:47:19.465701 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 11917 0/0/0 (34)
+23:47:22.460572 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffd3:4d84: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:47:22.460602 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: 2409:4063:201b:e791:550:e94c:44d3:4d84 > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:47:22.460614 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff2b:630d: ICMP6, neighbor solicitation, who has fe80::1420:652c:252b:630d, length 32
+23:47:22.460620 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is fe80::1420:652c:252b:630d, length 32
+23:47:23.451894 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:47:27.478746 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:47:27.513106 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:47:27.515427 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 78: fe80::58b1:4fff:fe60:5a6f > fe80::1420:652c:252b:630d: ICMP6, neighbor advertisement, tgt is fe80::58b1:4fff:fe60:5a6f, length 24
+23:47:27.693828 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 90: 192.168.1.105.49418 > 91.189.94.4.123: NTPv4, Client, length 48
+23:47:28.482693 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 14993+ A? daisy.ubuntu.com. (34)
+23:47:28.483469 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 96: 2409:4063:201b:e791:550:e94c:44d3:4d84.41445 > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53: 14993+ A? daisy.ubuntu.com. (34)
+23:47:28.483475 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 49646+ AAAA? daisy.ubuntu.com. (34)
+23:47:28.487451 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 14993 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:47:28.487489 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 128: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53 > 2409:4063:201b:e791:550:e94c:44d3:4d84.41445: 14993 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:47:28.487510 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 49646 0/0/0 (34)
+23:47:28.487734 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 90: 91.189.94.4.123 > 192.168.1.105.49418: NTPv4, Server, length 48
+23:47:32.889104 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.1 tell 192.168.1.105, length 28
+23:47:32.892253 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Reply 192.168.1.1 is-at c8:d7:79:aa:2a:72, length 28
+23:47:34.459718 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff63:a79f: ICMP6, neighbor solicitation, who has fe80::aec1:eeff:fe63:a79f, length 32
+23:47:35.420682 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:47:36.423557 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 44458+ A? daisy.ubuntu.com. (34)
+23:47:36.423586 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 25993+ AAAA? daisy.ubuntu.com. (34)
+23:47:36.426489 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 44458 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:47:36.426523 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 25993 0/0/0 (34)
+23:47:38.428358 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff3c:f293: ICMP6, neighbor solicitation, who has fe80::5e51:88ff:fe3c:f293, length 32
+23:47:38.428371 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:47:38.439944 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:47:40.476591 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:47:42.460759 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:47:42.460772 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:47:43.463858 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 36313+ A? daisy.ubuntu.com. (34)
+23:47:43.463889 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 21938+ AAAA? daisy.ubuntu.com. (34)
+23:47:43.466249 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 36313 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:47:43.466293 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 21938 0/0/0 (34)
+23:47:46.461997 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:47:47.453033 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.105 tell 192.168.1.1, length 28
+23:47:47.453047 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Reply 192.168.1.105 is-at 70:18:8b:25:b5:73, length 28
+23:47:47.464635 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 17652+ A? daisy.ubuntu.com. (34)
+23:47:47.464671 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 43531+ AAAA? daisy.ubuntu.com. (34)
+23:47:47.467238 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 17652 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:47:47.467488 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 43531 0/0/0 (34)
+23:47:48.476698 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff72:bf3a: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:89c7:a01c:2872:bf3a, length 32
+23:47:48.476712 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff22:80e0: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:7cfa:2c67:5922:80e0, length 32
+23:47:49.436500 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff94:8cd1: ICMP6, neighbor solicitation, who has fe80::2ec:aff:fe94:8cd1, length 32
+23:47:51.421209 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffba:460f: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:fd6a:1d3b:14ba:460f, length 32
+23:47:52.444547 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:47:52.470759 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:47:53.437292 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:47:53.447088 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 22947+ A? daisy.ubuntu.com. (34)
+23:47:53.447172 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 96: 2409:4063:201b:e791:550:e94c:44d3:4d84.41445 > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53: 22947+ A? daisy.ubuntu.com. (34)
+23:47:53.447700 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 2240+ AAAA? daisy.ubuntu.com. (34)
+23:47:53.450241 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 22947 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:47:53.450254 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 128: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53 > 2409:4063:201b:e791:550:e94c:44d3:4d84.41445: 22947 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:47:53.450264 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 2240 0/0/0 (34)
+23:47:55.454823 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffd3:4d84: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:47:55.454856 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: 2409:4063:201b:e791:550:e94c:44d3:4d84 > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:47:55.454868 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff2b:630d: ICMP6, neighbor solicitation, who has fe80::1420:652c:252b:630d, length 32
+23:47:55.454874 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is fe80::1420:652c:252b:630d, length 32
+23:47:58.489118 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:58b1:4fff:fe60:5a6f, length 32
+23:47:58.489150 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.1 tell 192.168.1.105, length 28
+23:47:58.491717 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 78: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f > fe80::1420:652c:252b:630d: ICMP6, neighbor advertisement, tgt is 2409:4063:201b:e791:58b1:4fff:fe60:5a6f, length 24
+23:47:58.491744 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Reply 192.168.1.1 is-at c8:d7:79:aa:2a:72, length 28
+23:48:00.693788 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 90: 192.168.1.105.49385 > 91.189.94.4.123: NTPv4, Client, length 48
+23:48:02.429845 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:48:02.430060 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 90: 91.189.94.4.123 > 192.168.1.105.49385: NTPv4, Server, length 48
+23:48:03.432657 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 27407+ A? daisy.ubuntu.com. (34)
+23:48:03.433439 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 24590+ AAAA? daisy.ubuntu.com. (34)
+23:48:03.435879 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 27407 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:48:03.435894 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 24590 0/0/0 (34)
+23:48:05.531408 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 112: 192.168.1.105.51796 > 52.66.149.39.443: Flags [P.], seq 862:908, ack 317, win 237, options [nop,nop,TS val 2378596719 ecr 274173110], length 46
+23:48:05.617517 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 112: 52.66.149.39.443 > 192.168.1.105.51796: Flags [P.], seq 317:363, ack 908, win 114, options [nop,nop,TS val 274187907 ecr 2378596719], length 46
+23:48:05.617545 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 66: 192.168.1.105.51796 > 52.66.149.39.443: Flags [.], ack 363, win 237, options [nop,nop,TS val 2378596741 ecr 274187907], length 0
+23:48:07.455074 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:48:07.455088 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff63:a79f: ICMP6, neighbor solicitation, who has fe80::aec1:eeff:fe63:a79f, length 32
+23:48:08.444752 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:48:09.448324 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 64908+ A? daisy.ubuntu.com. (34)
+23:48:09.449132 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 40090+ AAAA? daisy.ubuntu.com. (34)
+23:48:09.452505 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 64908 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:48:09.452639 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 40090 0/0/0 (34)
+23:48:10.460287 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:48:11.452602 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff3c:f293: ICMP6, neighbor solicitation, who has fe80::5e51:88ff:fe3c:f293, length 32
+23:48:13.467917 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:48:15.452675 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:48:15.563188 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:48:16.566502 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 8271+ A? daisy.ubuntu.com. (34)
+23:48:16.566588 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 96: 2409:4063:201b:e791:550:e94c:44d3:4d84.41445 > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53: 8271+ A? daisy.ubuntu.com. (34)
+23:48:16.566621 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 47781+ AAAA? daisy.ubuntu.com. (34)
+23:48:16.570029 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 8271 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:48:16.570076 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 128: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53 > 2409:4063:201b:e791:550:e94c:44d3:4d84.41445: 8271 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:48:16.570106 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 47781 0/0/0 (34)
+23:48:18.928294 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:48:18.928422 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:48:19.655678 c8:d7:79:aa:2a:72 > ff:ff:ff:ff:ff:ff, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.105 tell 192.168.1.1, length 28
+23:48:19.673137 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Reply 192.168.1.105 is-at 70:18:8b:25:b5:73, length 28
+23:48:19.932040 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 11242+ A? daisy.ubuntu.com. (34)
+23:48:19.932089 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 53299+ AAAA? daisy.ubuntu.com. (34)
+23:48:19.935146 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 11242 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:48:19.935261 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 53299 0/0/0 (34)
+23:48:20.649345 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff72:bf3a: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:89c7:a01c:2872:bf3a, length 32
+23:48:20.679076 ac:c1:ee:63:a7:9f > ff:ff:ff:ff:ff:ff, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.1 tell 192.168.1.101, length 28
+23:48:20.948187 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff22:80e0: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:7cfa:2c67:5922:80e0, length 32
+23:48:22.427979 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff94:8cd1: ICMP6, neighbor solicitation, who has fe80::2ec:aff:fe94:8cd1, length 32
+23:48:22.428045 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:48:24.443935 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffba:460f: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:fd6a:1d3b:14ba:460f, length 32
+23:48:26.461855 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:48:28.475928 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffd3:4d84: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:48:28.475965 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: 2409:4063:201b:e791:550:e94c:44d3:4d84 > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:48:28.475982 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff2b:630d: ICMP6, neighbor solicitation, who has fe80::1420:652c:252b:630d, length 32
+23:48:28.475990 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is fe80::1420:652c:252b:630d, length 32
+23:48:29.436241 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:48:29.436269 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:48:30.438316 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 15465+ A? daisy.ubuntu.com. (34)
+23:48:30.438347 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 37025+ AAAA? daisy.ubuntu.com. (34)
+23:48:30.441512 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 15465 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:48:30.441527 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 37025 0/0/0 (34)
+23:48:31.451985 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:48:33.561109 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:48:33.563765 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 78: fe80::58b1:4fff:fe60:5a6f > fe80::1420:652c:252b:630d: ICMP6, neighbor advertisement, tgt is fe80::58b1:4fff:fe60:5a6f, length 24
+23:48:34.443845 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 90: 192.168.1.105.33291 > 91.189.94.4.123: NTPv4, Client, length 48
+23:48:34.447367 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:48:35.450171 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 1766+ A? daisy.ubuntu.com. (34)
+23:48:35.450198 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 4081+ AAAA? daisy.ubuntu.com. (34)
+23:48:35.453605 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 1766 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:48:35.453626 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 4081 0/0/0 (34)
+23:48:35.453836 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 90: 91.189.94.4.123 > 192.168.1.105.33291: NTPv4, Server, length 48
+23:48:35.609163 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.1 tell 192.168.1.105, length 28
+23:48:35.611879 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Reply 192.168.1.1 is-at c8:d7:79:aa:2a:72, length 28
+23:48:37.534674 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:48:39.454027 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff63:a79f: ICMP6, neighbor solicitation, who has fe80::aec1:eeff:fe63:a79f, length 32
+23:48:41.436485 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:48:41.436512 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:48:42.439577 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 17239+ A? daisy.ubuntu.com. (34)
+23:48:42.440349 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 96: 2409:4063:201b:e791:550:e94c:44d3:4d84.41445 > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53: 17239+ A? daisy.ubuntu.com. (34)
+23:48:42.440355 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 21158+ AAAA? daisy.ubuntu.com. (34)
+23:48:42.443800 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 17239 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:48:42.443818 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 128: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53 > 2409:4063:201b:e791:550:e94c:44d3:4d84.41445: 17239 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:48:42.443830 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 21158 0/0/0 (34)
+23:48:43.460733 c8:d7:79:aa:2a:72 > ff:ff:ff:ff:ff:ff, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.103 tell 192.168.1.1, length 28
+23:48:44.477549 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff3c:f293: ICMP6, neighbor solicitation, who has fe80::5e51:88ff:fe3c:f293, length 32
+23:48:46.460160 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:48:46.460173 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:48:46.460176 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:48:46.522984 c8:d7:79:aa:2a:72 > ff:ff:ff:ff:ff:ff, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.100 tell 192.168.1.1, length 28
+23:48:47.641109 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:58b1:4fff:fe60:5a6f, length 32
+23:48:47.645746 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 78: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f > fe80::1420:652c:252b:630d: ICMP6, neighbor advertisement, tgt is 2409:4063:201b:e791:58b1:4fff:fe60:5a6f, length 24
+23:48:50.460995 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:48:51.463599 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 51287+ A? daisy.ubuntu.com. (34)
+23:48:51.463629 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 14914+ AAAA? daisy.ubuntu.com. (34)
+23:48:51.467251 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 51287 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:48:51.467267 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 14914 0/0/0 (34)
+23:48:53.468846 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:48:53.532062 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff22:80e0: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:7cfa:2c67:5922:80e0, length 32
+23:48:56.601099 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.1 tell 192.168.1.105, length 28
+23:48:56.604327 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Reply 192.168.1.1 is-at c8:d7:79:aa:2a:72, length 28
+23:48:57.436718 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffba:460f: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:fd6a:1d3b:14ba:460f, length 32
+23:48:58.460875 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:48:58.536319 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 311: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 269
+23:48:58.536781 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 320: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 278
+23:48:58.537295 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 383: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 341
+23:48:58.537785 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 375: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 333
+23:48:58.538248 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 320: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 278
+23:48:58.538770 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 359: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 317
+23:48:58.539276 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 391: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 349
+23:48:58.539775 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 320: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 278
+23:48:58.540284 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 379: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 337
+23:48:58.540797 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 385: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 343
+23:48:58.541301 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 373: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 331
+23:48:58.541809 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 379: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 337
+23:48:58.542263 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 309: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 267
+23:48:58.542718 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 318: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 276
+23:48:58.543386 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 373: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 331
+23:48:58.543897 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 383: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 341
+23:48:59.464400 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 62662+ A? daisy.ubuntu.com. (34)
+23:48:59.464432 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 9257+ AAAA? daisy.ubuntu.com. (34)
+23:48:59.467115 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 62662 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:48:59.467144 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 9257 0/0/0 (34)
+23:49:01.468078 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffd3:4d84: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:49:01.468113 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: 2409:4063:201b:e791:550:e94c:44d3:4d84 > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:49:01.468129 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff2b:630d: ICMP6, neighbor solicitation, who has fe80::1420:652c:252b:630d, length 32
+23:49:01.468136 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is fe80::1420:652c:252b:630d, length 32
+23:49:02.460407 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:49:04.471361 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.105 tell 192.168.1.1, length 28
+23:49:04.471375 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Reply 192.168.1.105 is-at 70:18:8b:25:b5:73, length 28
+23:49:04.532090 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 112: 192.168.1.105.51796 > 52.66.149.39.443: Flags [P.], seq 908:954, ack 363, win 237, options [nop,nop,TS val 2378611469 ecr 274187907], length 46
+23:49:04.605215 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 112: 52.66.149.39.443 > 192.168.1.105.51796: Flags [P.], seq 363:409, ack 954, win 114, options [nop,nop,TS val 274202678 ecr 2378611469], length 46
+23:49:04.605247 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 66: 192.168.1.105.51796 > 52.66.149.39.443: Flags [.], ack 409, win 237, options [nop,nop,TS val 2378611488 ecr 274202678], length 0
+23:49:06.465517 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:49:06.465529 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:49:07.468602 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 19864+ A? daisy.ubuntu.com. (34)
+23:49:07.468637 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 96: 2409:4063:201b:e791:550:e94c:44d3:4d84.41445 > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53: 19864+ A? daisy.ubuntu.com. (34)
+23:49:07.468657 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 42687+ AAAA? daisy.ubuntu.com. (34)
+23:49:07.471151 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 19864 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:49:07.471167 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 128: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53 > 2409:4063:201b:e791:550:e94c:44d3:4d84.41445: 19864 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:49:07.471178 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 42687 0/0/0 (34)
+23:49:07.693851 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 90: 192.168.1.105.44008 > 91.189.94.4.123: NTPv4, Client, length 48
+23:49:09.436224 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:49:09.436466 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 90: 91.189.94.4.123 > 192.168.1.105.44008: NTPv4, Server, length 48
+23:49:12.476705 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff63:a79f: ICMP6, neighbor solicitation, who has fe80::aec1:eeff:fe63:a79f, length 32
+23:49:14.507825 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:49:15.065864 70:18:8b:25:b5:73 > 01:00:5e:00:00:fb, ethertype IPv4 (0x0800), length 87: 192.168.1.105.5353 > 224.0.0.251.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+23:49:15.510520 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 26065+ A? daisy.ubuntu.com. (34)
+23:49:15.511540 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 43111+ AAAA? daisy.ubuntu.com. (34)
+23:49:15.515837 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:49:15.515851 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 26065 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:49:15.515871 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 43111 0/0/0 (34)
+23:49:16.063111 70:18:8b:25:b5:73 > 33:33:00:00:00:fb, ethertype IPv6 (0x86dd), length 107: 2409:4063:201b:e791:550:e94c:44d3:4d84.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ipp._tcp.local. (45)
+23:49:17.468322 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff3c:f293: ICMP6, neighbor solicitation, who has fe80::5e51:88ff:fe3c:f293, length 32
+23:49:18.460449 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:49:19.452367 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:49:20.444820 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:49:21.438460 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:49:23.453730 00:17:7c:72:e2:75 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 78: fe80::217:7cff:fe72:e275 > ff02::1: ICMP6, router advertisement, length 24
+23:49:24.443855 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:49:24.443883 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:49:24.443890 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:49:25.447830 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 20557+ A? daisy.ubuntu.com. (34)
+23:49:25.447881 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 5619+ AAAA? daisy.ubuntu.com. (34)
+23:49:25.450428 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 20557 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:49:25.450444 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 5619 0/0/0 (34)
+23:49:26.471281 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff22:80e0: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:7cfa:2c67:5922:80e0, length 32
+23:49:30.462343 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffba:460f: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:fd6a:1d3b:14ba:460f, length 32
+23:49:30.649112 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.1 tell 192.168.1.105, length 28
+23:49:30.652488 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Reply 192.168.1.1 is-at c8:d7:79:aa:2a:72, length 28
+23:49:32.446472 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:49:33.449919 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 4383+ A? daisy.ubuntu.com. (34)
+23:49:33.450705 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 96: 2409:4063:201b:e791:550:e94c:44d3:4d84.41445 > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53: 4383+ A? daisy.ubuntu.com. (34)
+23:49:33.450729 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 53178+ AAAA? daisy.ubuntu.com. (34)
+23:49:33.455946 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:49:33.455958 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 4383 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:49:33.455974 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 128: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53 > 2409:4063:201b:e791:550:e94c:44d3:4d84.41445: 4383 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:49:33.455982 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 53178 0/0/0 (34)
+23:49:33.480569 ac:c1:ee:63:a7:9f > ff:ff:ff:ff:ff:ff, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.1 tell 192.168.1.101, length 28
+23:49:34.459644 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffd3:4d84: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:49:34.459677 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: 2409:4063:201b:e791:550:e94c:44d3:4d84 > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:49:34.459745 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff2b:630d: ICMP6, neighbor solicitation, who has fe80::1420:652c:252b:630d, length 32
+23:49:34.459752 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is fe80::1420:652c:252b:630d, length 32
+23:49:35.452418 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:49:36.443697 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:49:36.455205 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 20868+ A? daisy.ubuntu.com. (34)
+23:49:36.455235 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 35203+ AAAA? daisy.ubuntu.com. (34)
+23:49:36.458268 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 20868 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:49:36.458283 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 35203 0/0/0 (34)
+23:49:37.436676 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.105 tell 192.168.1.1, length 28
+23:49:37.436706 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Reply 192.168.1.105 is-at 70:18:8b:25:b5:73, length 28
+23:49:38.585111 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:58b1:4fff:fe60:5a6f, length 32
+23:49:38.590489 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 78: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f > fe80::1420:652c:252b:630d: ICMP6, neighbor advertisement, tgt is 2409:4063:201b:e791:58b1:4fff:fe60:5a6f, length 24
+23:49:38.602128 00:17:7c:72:e2:75 > ff:ff:ff:ff:ff:ff, ethertype ARP (0x0806), length 60: Request who-has 192.168.1.103 tell 192.168.1.103, length 46
+23:49:39.609120 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:49:39.613017 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 78: fe80::58b1:4fff:fe60:5a6f > fe80::1420:652c:252b:630d: ICMP6, neighbor advertisement, tgt is fe80::58b1:4fff:fe60:5a6f, length 24
+23:49:41.443834 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 90: 192.168.1.105.52931 > 91.189.94.4.123: NTPv4, Client, length 48
+23:49:41.446930 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:49:41.447076 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:49:42.451348 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 52278+ A? daisy.ubuntu.com. (34)
+23:49:42.452033 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 37037+ AAAA? daisy.ubuntu.com. (34)
+23:49:42.456297 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 52278 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:49:42.456412 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 37037 0/0/0 (34)
+23:49:42.456846 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 90: 91.189.94.4.123 > 192.168.1.105.52931: NTPv4, Server, length 48
+23:49:45.436654 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff63:a79f: ICMP6, neighbor solicitation, who has fe80::aec1:eeff:fe63:a79f, length 32
+23:49:49.468969 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:49:49.526177 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:49:50.461684 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff3c:f293: ICMP6, neighbor solicitation, who has fe80::5e51:88ff:fe3c:f293, length 32
+23:49:50.530130 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 45608+ A? daisy.ubuntu.com. (34)
+23:49:50.530162 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 60998+ AAAA? daisy.ubuntu.com. (34)
+23:49:50.534133 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 45608 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:49:50.534152 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 60998 0/0/0 (34)
+23:49:51.507708 c8:d7:79:aa:2a:72 > ff:ff:ff:ff:ff:ff, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.101 tell 192.168.1.1, length 28
+23:49:52.445251 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:49:52.445265 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:49:54.459762 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:49:55.463200 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 54198+ A? daisy.ubuntu.com. (34)
+23:49:55.463237 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 96: 2409:4063:201b:e791:550:e94c:44d3:4d84.41445 > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53: 54198+ A? daisy.ubuntu.com. (34)
+23:49:55.463263 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 17392+ AAAA? daisy.ubuntu.com. (34)
+23:49:55.465944 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 54198 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:49:55.465960 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 128: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53 > 2409:4063:201b:e791:550:e94c:44d3:4d84.41445: 54198 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:49:55.465978 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 17392 0/0/0 (34)
+23:49:55.493877 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:49:55.737099 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.1 tell 192.168.1.105, length 28
+23:49:55.740258 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Reply 192.168.1.1 is-at c8:d7:79:aa:2a:72, length 28
+23:49:59.507283 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff22:80e0: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:7cfa:2c67:5922:80e0, length 32
+23:50:01.442090 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 311: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 269
+23:50:01.442565 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 320: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 278
+23:50:01.443091 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 383: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 341
+23:50:01.443632 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 375: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 333
+23:50:01.444111 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 320: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 278
+23:50:01.444631 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 359: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 317
+23:50:01.445193 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 391: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 349
+23:50:01.445690 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 320: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 278
+23:50:01.446223 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 379: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 337
+23:50:01.446767 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 385: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 343
+23:50:01.544577 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 375: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 333
+23:50:01.545051 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 320: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 278
+23:50:01.545600 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 359: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 317
+23:50:01.546152 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 391: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 349
+23:50:01.546644 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 320: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 278
+23:50:01.547178 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 379: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 337
+23:50:01.547716 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 385: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 343
+23:50:01.548245 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 373: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 331
+23:50:01.548771 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 379: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 337
+23:50:01.549252 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 309: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 267
+23:50:02.461179 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:50:03.463904 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 2491+ A? daisy.ubuntu.com. (34)
+23:50:03.463936 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 53325+ AAAA? daisy.ubuntu.com. (34)
+23:50:03.468578 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 2491 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:50:03.468592 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 53325 0/0/0 (34)
+23:50:03.507604 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffba:460f: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:fd6a:1d3b:14ba:460f, length 32
+23:50:03.533259 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 112: 192.168.1.105.51796 > 52.66.149.39.443: Flags [P.], seq 954:1000, ack 409, win 237, options [nop,nop,TS val 2378626220 ecr 274202678], length 46
+23:50:03.611524 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 112: 52.66.149.39.443 > 192.168.1.105.51796: Flags [P.], seq 409:455, ack 1000, win 114, options [nop,nop,TS val 274217433 ecr 2378626220], length 46
+23:50:03.611552 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 66: 192.168.1.105.51796 > 52.66.149.39.443: Flags [.], ack 455, win 237, options [nop,nop,TS val 2378626239 ecr 274217433], length 0
+23:50:04.464041 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:50:04.514649 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 320: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 278
+23:50:04.515174 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 383: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 341
+23:50:04.515739 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 375: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 333
+23:50:04.516222 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 320: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 278
+23:50:04.516753 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 359: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 317
+23:50:04.517308 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 391: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 349
+23:50:04.517813 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 320: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 278
+23:50:04.518339 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 379: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 337
+23:50:04.518893 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 385: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 343
+23:50:04.519399 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 373: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 331
+23:50:04.519955 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 379: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 337
+23:50:04.520433 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 309: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 267
+23:50:04.520933 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 318: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 276
+23:50:04.521432 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 373: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 331
+23:50:04.521988 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 383: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 341
+23:50:05.437802 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:50:05.437920 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:50:06.469093 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:50:07.451963 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:50:07.451977 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffd3:4d84: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:50:07.452005 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: 2409:4063:201b:e791:550:e94c:44d3:4d84 > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:50:07.452019 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff2b:630d: ICMP6, neighbor solicitation, who has fe80::1420:652c:252b:630d, length 32
+23:50:07.452027 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is fe80::1420:652c:252b:630d, length 32
+23:50:07.472185 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 19565+ A? daisy.ubuntu.com. (34)
+23:50:07.472216 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 64035+ AAAA? daisy.ubuntu.com. (34)
+23:50:07.474782 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 19565 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:50:07.474802 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 64035 0/0/0 (34)
+23:50:10.460603 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.105 tell 192.168.1.1, length 28
+23:50:10.460618 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Reply 192.168.1.105 is-at 70:18:8b:25:b5:73, length 28
+23:50:11.452867 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:50:11.452880 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:50:12.455751 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 50656+ A? daisy.ubuntu.com. (34)
+23:50:12.455782 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 43100+ AAAA? daisy.ubuntu.com. (34)
+23:50:12.458383 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 50656 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:50:12.458397 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 43100 0/0/0 (34)
+23:50:14.544243 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:50:15.547264 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 13653+ A? daisy.ubuntu.com. (34)
+23:50:15.547297 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 31965+ AAAA? daisy.ubuntu.com. (34)
+23:50:15.550507 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 13653 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:50:15.550644 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 31965 0/0/0 (34)
+23:50:20.667933 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff63:a79f: ICMP6, neighbor solicitation, who has fe80::aec1:eeff:fe63:a79f, length 32
+23:50:20.668080 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:50:20.668272 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:50:21.672328 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 30685+ A? daisy.ubuntu.com. (34)
+23:50:21.673139 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 96: 2409:4063:201b:e791:550:e94c:44d3:4d84.41445 > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53: 30685+ A? daisy.ubuntu.com. (34)
+23:50:21.673146 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 31559+ AAAA? daisy.ubuntu.com. (34)
+23:50:21.681264 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 30685 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:50:21.681469 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 128: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53 > 2409:4063:201b:e791:550:e94c:44d3:4d84.41445: 30685 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:50:21.681604 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 31559 0/0/0 (34)
+23:50:23.452125 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff3c:f293: ICMP6, neighbor solicitation, who has fe80::5e51:88ff:fe3c:f293, length 32
+23:50:23.455524 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:50:25.468391 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:50:26.713110 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:58b1:4fff:fe60:5a6f, length 32
+23:50:26.713905 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.1 tell 192.168.1.105, length 28
+23:50:26.716555 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:50:26.716688 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 78: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f > fe80::1420:652c:252b:630d: ICMP6, neighbor advertisement, tgt is 2409:4063:201b:e791:58b1:4fff:fe60:5a6f, length 24
+23:50:26.716775 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Reply 192.168.1.1 is-at c8:d7:79:aa:2a:72, length 28
+23:50:28.477330 5c:51:88:3c:f2:93 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::5e51:88ff:fe3c:f293 > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:50:28.477520 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:50:29.480360 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 59657+ A? daisy.ubuntu.com. (34)
+23:50:29.480401 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 5805+ AAAA? daisy.ubuntu.com. (34)
+23:50:29.483196 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 59657 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:50:29.483309 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 5805 0/0/0 (34)
+23:50:32.478108 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:50:32.478236 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff22:80e0: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:7cfa:2c67:5922:80e0, length 32
+23:50:33.480855 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 42029+ A? daisy.ubuntu.com. (34)
+23:50:33.480887 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 10313+ AAAA? daisy.ubuntu.com. (34)
+23:50:33.487251 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 42029 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:50:33.487388 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 10313 0/0/0 (34)
+23:50:34.511169 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 373: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 331
+23:50:34.511714 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 379: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 337
+23:50:34.512194 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 309: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 267
+23:50:34.512700 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 318: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 276
+23:50:34.513216 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 373: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 331
+23:50:34.513751 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 383: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 341
+23:50:34.514275 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 373: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 331
+23:50:34.514801 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 383: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 341
+23:50:36.476213 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:50:37.467659 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:50:37.467688 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffba:460f: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:fd6a:1d3b:14ba:460f, length 32
+23:50:37.482478 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 379: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 337
+23:50:37.483456 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 318: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 276
+23:50:37.484975 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 373: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 331
+23:50:37.485511 00:17:7c:72:e2:75 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 383: 192.168.2.1.1900 > 239.255.255.250.1900: UDP, length 341
+23:50:38.470654 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 61044+ A? daisy.ubuntu.com. (34)
+23:50:38.470695 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 55439+ AAAA? daisy.ubuntu.com. (34)
+23:50:38.473776 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 61044 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:50:38.473794 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 55439 0/0/0 (34)
+23:50:40.450112 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ffd3:4d84: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:50:40.450213 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: 2409:4063:201b:e791:550:e94c:44d3:4d84 > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is 2409:4063:201b:e791:550:e94c:44d3:4d84, length 32
+23:50:40.450269 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff2b:630d: ICMP6, neighbor solicitation, who has fe80::1420:652c:252b:630d, length 32
+23:50:40.450287 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor advertisement, tgt is fe80::1420:652c:252b:630d, length 32
+23:50:41.468673 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:50:41.468801 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:50:42.460639 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has 2409:4063:201b:e791:217:7cff:fe72:e275, length 32
+23:50:42.471710 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 58465+ A? daisy.ubuntu.com. (34)
+23:50:42.471754 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 96: 2409:4063:201b:e791:550:e94c:44d3:4d84.41445 > 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53: 58465+ A? daisy.ubuntu.com. (34)
+23:50:42.471784 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 30620+ AAAA? daisy.ubuntu.com. (34)
+23:50:42.475075 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 58465 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:50:42.475169 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 128: 2409:4063:201b:e791:58b1:4fff:fe60:5a6f.53 > 2409:4063:201b:e791:550:e94c:44d3:4d84.41445: 58465 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:50:42.475231 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 30620 0/0/0 (34)
+23:50:45.657110 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: fe80::1420:652c:252b:630d > fe80::58b1:4fff:fe60:5a6f: ICMP6, neighbor solicitation, who has fe80::58b1:4fff:fe60:5a6f, length 32
+23:50:45.660962 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 78: fe80::58b1:4fff:fe60:5a6f > fe80::1420:652c:252b:630d: ICMP6, neighbor advertisement, tgt is fe80::58b1:4fff:fe60:5a6f, length 24
+23:50:46.693818 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 90: 192.168.1.105.39415 > 91.189.94.4.123: NTPv4, Client, length 48
+23:50:48.444091 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 90: 91.189.94.4.123 > 192.168.1.105.39415: NTPv4, Server, length 48
+23:50:50.459599 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 118: fe80::58b1:4fff:fe60:5a6f > ff02::1: ICMP6, router advertisement, length 64
+23:50:51.451570 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::58b1:4fff:fe60:5a6f > ff02::1:ff63:a79f: ICMP6, neighbor solicitation, who has fe80::aec1:eeff:fe63:a79f, length 32
+23:50:51.451583 ac:c1:ee:63:a7:9f > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: fe80::aec1:eeff:fe63:a79f > ff02::1:ff72:e275: ICMP6, neighbor solicitation, who has fe80::217:7cff:fe72:e275, length 32
+23:50:51.461862 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 23509+ A? daisy.ubuntu.com. (34)
+23:50:51.461902 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 55852+ AAAA? daisy.ubuntu.com. (34)
+23:50:51.465301 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 23509 2/0/0 A 162.213.33.164, A 162.213.33.133 (66)
+23:50:51.465314 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 55852 0/0/0 (34)
+23:50:52.476376 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype ARP (0x0806), length 42: Request who-has 192.168.1.105 tell 192.168.1.1, length 28
+23:50:52.476390 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype ARP (0x0806), length 42: Reply 192.168.1.105 is-at 70:18:8b:25:b5:73, length 28
+23:50:54.332707 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 83: 192.168.1.105.51631 > 192.168.1.1.53: 5474+ A? safebrowsing.google.com. (41)
+23:50:54.333483 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 83: 192.168.1.105.51631 > 192.168.1.1.53: 3672+ AAAA? safebrowsing.google.com. (41)
+23:50:54.333490 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 83: 192.168.1.105.51631 > 192.168.1.1.53: 52245+ A? safebrowsing.google.com. (41)
+23:50:54.333492 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 83: 192.168.1.105.51631 > 192.168.1.1.53: 19910+ AAAA? safebrowsing.google.com. (41)
+23:50:54.373096 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 358: 192.168.1.1.53 > 192.168.1.105.51631: 5474 17/0/0 CNAME sb.l.google.com., A 108.177.12.190, A 74.125.23.136, A 74.125.23.93, A 74.125.23.190, A 74.125.23.91, A 64.233.184.91, A 64.233.184.190, A 64.233.184.93, A 64.233.184.136, A 74.125.126.91, A 74.125.126.136, A 74.125.126.93, A 74.125.126.190, A 108.177.12.136, A 108.177.12.93, A 108.177.12.91 (316)
+23:50:54.373115 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 130: 192.168.1.1.53 > 192.168.1.105.51631: 3672 2/0/0 CNAME sb.l.google.com., AAAA 2404:6800:4009:80d::200e (88)
+23:50:54.373209 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 358: 192.168.1.1.53 > 192.168.1.105.51631: 52245 17/0/0 CNAME sb.l.google.com., A 74.125.23.190, A 74.125.23.91, A 64.233.184.91, A 64.233.184.190, A 64.233.184.93, A 64.233.184.136, A 74.125.126.91, A 74.125.126.136, A 74.125.126.93, A 74.125.126.190, A 108.177.12.136, A 108.177.12.93, A 108.177.12.91, A 108.177.12.190, A 74.125.23.136, A 74.125.23.93 (316)
+23:50:54.373216 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 130: 192.168.1.1.53 > 192.168.1.105.51631: 19910 2/0/0 CNAME sb.l.google.com., AAAA 2404:6800:4009:80d::200e (88)
+23:50:54.373531 70:18:8b:25:b5:73 > 00:17:7c:72:e2:75, ethertype IPv6 (0x86dd), length 94: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [S], seq 215396011, win 28800, options [mss 1440,sackOK,TS val 4118167260 ecr 0,nop,wscale 7], length 0
+23:50:54.379304 00:17:7c:72:e2:75 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 190: fe80::217:7cff:fe72:e275 > 2409:4063:201b:e791:550:e94c:44d3:4d84: ICMP6, redirect, 2404:6800:4009:80d::200e to fe80::58b1:4fff:fe60:5a6f, length 136
+23:50:54.380201 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 18217+ A? daisy.ubuntu.com. (34)
+23:50:54.380224 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv4 (0x0800), length 76: 192.168.1.105.51631 > 192.168.1.1.53: 21975+ AAAA? daisy.ubuntu.com. (34)
+23:50:54.382422 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 108: 192.168.1.1.53 > 192.168.1.105.51631: 18217 2/0/0 A 162.213.33.133, A 162.213.33.164 (66)
+23:50:54.382485 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv4 (0x0800), length 76: 192.168.1.1.53 > 192.168.1.105.51631: 21975 0/0/0 (34)
+23:50:54.451469 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 94: 2404:6800:4009:80d::200e.443 > 2409:4063:201b:e791:550:e94c:44d3:4d84.42376: Flags [S.], seq 1210242490, ack 215396012, win 26960, options [mss 1360,sackOK,TS val 3435381407 ecr 4118167260,nop,wscale 8], length 0
+23:50:54.451507 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], ack 1, win 225, options [nop,nop,TS val 4118167279 ecr 3435381407], length 0
+23:50:54.451673 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 603: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [P.], seq 1:518, ack 1, win 225, options [nop,nop,TS val 4118167279 ecr 3435381407], length 517
+23:50:54.531544 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: 2404:6800:4009:80d::200e.443 > 2409:4063:201b:e791:550:e94c:44d3:4d84.42376: Flags [.], ack 518, win 110, options [nop,nop,TS val 3435381487 ecr 4118167279], length 0
+23:50:54.531633 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 242: 2404:6800:4009:80d::200e.443 > 2409:4063:201b:e791:550:e94c:44d3:4d84.42376: Flags [P.], seq 1:157, ack 518, win 110, options [nop,nop,TS val 3435381487 ecr 4118167279], length 156
+23:50:54.531649 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], ack 157, win 234, options [nop,nop,TS val 4118167299 ecr 3435381487], length 0
+23:50:54.531935 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 137: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [P.], seq 518:569, ack 157, win 234, options [nop,nop,TS val 4118167299 ecr 3435381487], length 51
+23:50:54.532370 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 249: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [P.], seq 569:732, ack 157, win 234, options [nop,nop,TS val 4118167299 ecr 3435381487], length 163
+23:50:54.532577 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 537: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [P.], seq 732:1183, ack 157, win 234, options [nop,nop,TS val 4118167299 ecr 3435381487], length 451
+23:50:54.532944 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1434: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 1183:2531, ack 157, win 234, options [nop,nop,TS val 4118167299 ecr 3435381487], length 1348
+23:50:54.532954 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1434: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 2531:3879, ack 157, win 234, options [nop,nop,TS val 4118167299 ecr 3435381487], length 1348
+23:50:54.533398 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1434: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 3879:5227, ack 157, win 234, options [nop,nop,TS val 4118167300 ecr 3435381487], length 1348
+23:50:54.533688 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1434: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 5227:6575, ack 157, win 234, options [nop,nop,TS val 4118167300 ecr 3435381487], length 1348
+23:50:54.533994 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1434: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 6575:7923, ack 157, win 234, options [nop,nop,TS val 4118167300 ecr 3435381487], length 1348
+23:50:54.534312 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1434: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 7923:9271, ack 157, win 234, options [nop,nop,TS val 4118167300 ecr 3435381487], length 1348
+23:50:54.534620 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1434: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 9271:10619, ack 157, win 234, options [nop,nop,TS val 4118167300 ecr 3435381487], length 1348
+23:50:54.603523 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 124: 2404:6800:4009:80d::200e.443 > 2409:4063:201b:e791:550:e94c:44d3:4d84.42376: Flags [P.], seq 226:264, ack 1183, win 118, options [nop,nop,TS val 3435381567 ecr 4118167299], length 38
+23:50:54.603558 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1434: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 10619:11955, ack 157, win 234, options [nop,nop,TS val 4118167317 ecr 3435381487,nop,nop,sack 1 {226:264}], length 1336
+23:50:54.603575 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 110: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 11955:11967, ack 157, win 234, options [nop,nop,TS val 4118167317 ecr 3435381487,nop,nop,sack 1 {226:264}], length 12
+23:50:54.603580 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1434: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 11967:13303, ack 157, win 234, options [nop,nop,TS val 4118167317 ecr 3435381487,nop,nop,sack 1 {226:264}], length 1336
+23:50:54.603614 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: 2404:6800:4009:80d::200e.443 > 2409:4063:201b:e791:550:e94c:44d3:4d84.42376: Flags [.], ack 3879, win 139, options [nop,nop,TS val 3435381569 ecr 4118167299], length 0
+23:50:54.604100 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 110: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 13303:13315, ack 157, win 234, options [nop,nop,TS val 4118167317 ecr 3435381487,nop,nop,sack 1 {226:264}], length 12
+23:50:54.604111 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1434: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 13315:14651, ack 157, win 234, options [nop,nop,TS val 4118167317 ecr 3435381487,nop,nop,sack 1 {226:264}], length 1336
+23:50:54.604722 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 110: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 14651:14663, ack 157, win 234, options [nop,nop,TS val 4118167317 ecr 3435381487,nop,nop,sack 1 {226:264}], length 12
+23:50:54.604734 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1434: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 14663:15999, ack 157, win 234, options [nop,nop,TS val 4118167317 ecr 3435381487,nop,nop,sack 1 {226:264}], length 1336
+23:50:54.604913 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 110: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [P.], seq 15999:16011, ack 157, win 234, options [nop,nop,TS val 4118167317 ecr 3435381487,nop,nop,sack 1 {226:264}], length 12
+23:50:54.604920 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1434: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 16011:17347, ack 157, win 234, options [nop,nop,TS val 4118167317 ecr 3435381487,nop,nop,sack 1 {226:264}], length 1336
+23:50:54.605547 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 110: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 17347:17359, ack 157, win 234, options [nop,nop,TS val 4118167318 ecr 3435381487,nop,nop,sack 1 {226:264}], length 12
+23:50:54.607004 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: 2404:6800:4009:80d::200e.443 > 2409:4063:201b:e791:550:e94c:44d3:4d84.42376: Flags [.], ack 6575, win 160, options [nop,nop,TS val 3435381571 ecr 4118167300], length 0
+23:50:54.607025 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1434: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 17359:18695, ack 157, win 234, options [nop,nop,TS val 4118167318 ecr 3435381487,nop,nop,sack 1 {226:264}], length 1336
+23:50:54.607037 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 110: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 18695:18707, ack 157, win 234, options [nop,nop,TS val 4118167318 ecr 3435381487,nop,nop,sack 1 {226:264}], length 12
+23:50:54.607045 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1434: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 18707:20043, ack 157, win 234, options [nop,nop,TS val 4118167318 ecr 3435381487,nop,nop,sack 1 {226:264}], length 1336
+23:50:54.607849 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 110: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 20043:20055, ack 157, win 234, options [nop,nop,TS val 4118167318 ecr 3435381487,nop,nop,sack 1 {226:264}], length 12
+23:50:54.611151 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: 2404:6800:4009:80d::200e.443 > 2409:4063:201b:e791:550:e94c:44d3:4d84.42376: Flags [.], ack 1183, win 118, options [nop,nop,TS val 3435381567 ecr 4118167299], length 0
+23:50:54.611270 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 155: 2404:6800:4009:80d::200e.443 > 2409:4063:201b:e791:550:e94c:44d3:4d84.42376: Flags [P.], seq 157:226, ack 1183, win 118, options [nop,nop,TS val 3435381567 ecr 4118167299], length 69
+23:50:54.611285 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 86: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], ack 264, win 234, options [nop,nop,TS val 4118167319 ecr 3435381487], length 0
+23:50:54.613646 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: 2404:6800:4009:80d::200e.443 > 2409:4063:201b:e791:550:e94c:44d3:4d84.42376: Flags [.], ack 9271, win 182, options [nop,nop,TS val 3435381580 ecr 4118167300], length 0
+23:50:54.613661 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1434: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 20055:21403, ack 264, win 234, options [nop,nop,TS val 4118167320 ecr 3435381580], length 1348
+23:50:54.613671 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1434: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 21403:22751, ack 264, win 234, options [nop,nop,TS val 4118167320 ecr 3435381580], length 1348
+23:50:54.614087 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1434: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [P.], seq 22751:24099, ack 264, win 234, options [nop,nop,TS val 4118167320 ecr 3435381580], length 1348
+23:50:54.614423 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1422: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 24099:25435, ack 264, win 234, options [nop,nop,TS val 4118167320 ecr 3435381580], length 1336
+23:50:54.655172 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: 2404:6800:4009:80d::200e.443 > 2409:4063:201b:e791:550:e94c:44d3:4d84.42376: Flags [.], ack 10619, win 192, options [nop,nop,TS val 3435381620 ecr 4118167300], length 0
+23:50:54.655204 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1422: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 25435:26771, ack 264, win 234, options [nop,nop,TS val 4118167330 ecr 3435381620], length 1336
+23:50:54.655219 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1422: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 26771:28107, ack 264, win 234, options [nop,nop,TS val 4118167330 ecr 3435381620], length 1336
+23:50:54.682828 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: 2404:6800:4009:80d::200e.443 > 2409:4063:201b:e791:550:e94c:44d3:4d84.42376: Flags [.], ack 11955, win 203, options [nop,nop,TS val 3435381648 ecr 4118167300], length 0
+23:50:54.682857 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1422: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 28107:29443, ack 264, win 234, options [nop,nop,TS val 4118167337 ecr 3435381648], length 1336
+23:50:54.682872 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1422: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 29443:30779, ack 264, win 234, options [nop,nop,TS val 4118167337 ecr 3435381648], length 1336
+23:50:54.682880 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: 2404:6800:4009:80d::200e.443 > 2409:4063:201b:e791:550:e94c:44d3:4d84.42376: Flags [.], ack 11967, win 203, options [nop,nop,TS val 3435381648 ecr 4118167300], length 0
+23:50:54.682886 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: 2404:6800:4009:80d::200e.443 > 2409:4063:201b:e791:550:e94c:44d3:4d84.42376: Flags [.], ack 13303, win 213, options [nop,nop,TS val 3435381649 ecr 4118167300], length 0
+23:50:54.682891 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: 2404:6800:4009:80d::200e.443 > 2409:4063:201b:e791:550:e94c:44d3:4d84.42376: Flags [.], ack 13315, win 213, options [nop,nop,TS val 3435381649 ecr 4118167300], length 0
+23:50:54.682895 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: 2404:6800:4009:80d::200e.443 > 2409:4063:201b:e791:550:e94c:44d3:4d84.42376: Flags [.], ack 14651, win 224, options [nop,nop,TS val 3435381649 ecr 4118167300], length 0
+23:50:54.682910 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: 2404:6800:4009:80d::200e.443 > 2409:4063:201b:e791:550:e94c:44d3:4d84.42376: Flags [.], ack 14663, win 224, options [nop,nop,TS val 3435381649 ecr 4118167300], length 0
+23:50:54.683387 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1422: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 30779:32115, ack 264, win 234, options [nop,nop,TS val 4118167337 ecr 3435381649], length 1336
+23:50:54.683677 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1422: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 32115:33451, ack 264, win 234, options [nop,nop,TS val 4118167337 ecr 3435381649], length 1336
+23:50:54.683980 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1422: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 33451:34787, ack 264, win 234, options [nop,nop,TS val 4118167337 ecr 3435381649], length 1336
+23:50:54.684280 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1422: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [.], seq 34787:36123, ack 264, win 234, options [nop,nop,TS val 4118167337 ecr 3435381649], length 1336
+23:50:54.684616 70:18:8b:25:b5:73 > c8:d7:79:aa:2a:72, ethertype IPv6 (0x86dd), length 1224: 2409:4063:201b:e791:550:e94c:44d3:4d84.42376 > 2404:6800:4009:80d::200e.443: Flags [P.], seq 36123:37261, ack 264, win 234, options [nop,nop,TS val 4118167337 ecr 3435381649], length 1138
+23:50:54.687047 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: 2404:6800:4009:80d::200e.443 > 2409:4063:201b:e791:550:e94c:44d3:4d84.42376: Flags [.], ack 15999, win 234, options [nop,nop,TS val 3435381650 ecr 4118167300], length 0
+23:50:54.687071 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: 2404:6800:4009:80d::200e.443 > 2409:4063:201b:e791:550:e94c:44d3:4d84.42376: Flags [.], ack 16011, win 234, options [nop,nop,TS val 3435381650 ecr 4118167300], length 0
+23:50:54.687080 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: 2404:6800:4009:80d::200e.443 > 2409:4063:201b:e791:550:e94c:44d3:4d84.42376: Flags [.], ack 17347, win 245, options [nop,nop,TS val 3435381651 ecr 4118167300], length 0
+23:50:54.687086 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: 2404:6800:4009:80d::200e.443 > 2409:4063:201b:e791:550:e94c:44d3:4d84.42376: Flags [.], ack 17359, win 245, options [nop,nop,TS val 3435381651 ecr 4118167300], length 0
+23:50:54.687106 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: 2404:6800:4009:80d::200e.443 > 2409:4063:201b:e791:550:e94c:44d3:4d84.42376: Flags [.], ack 18695, win 255, options [nop,nop,TS val 3435381652 ecr 4118167300], length 0
+23:50:54.687125 c8:d7:79:aa:2a:72 > 70:18:8b:25:b5:73, ethertype IPv6 (0x86dd), length 86: 2404:6800:4009:80d::200e.443 > 2409:4063:201b:e791:550:e94c:44d3:4d84.42376: Flags [.], ack 18707, win 255, options [nop,nop,TS val 3435381652 ecr 4118167300], length 0
